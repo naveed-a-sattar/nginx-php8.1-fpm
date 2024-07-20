@@ -8,6 +8,6 @@ horizontal scaling of self hosted kubernetes cluster with automation based on pr
 - [ ] CI in GITLAB
 - [ ] worker node of GITLAB CI, if required
 - [x] Terraform script for Worker Node addition in K8s environment.
-..
+
 # Licence
 MIT
